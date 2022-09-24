@@ -39,7 +39,5 @@
 
 ### 🤝🏻 Connect With Me: 
 
-<p align="center">
 <a href="https://www.linkedin.com/in/kenai-carvalho-ab7431248/"><img src="https://img.shields.io/badge/-%20Kenai%20Carvalho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kenaicrv@gmail.com"><img src="https://img.shields.io/badge/kenaicrv@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
