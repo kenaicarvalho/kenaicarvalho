@@ -1,5 +1,5 @@
  <div align="center">
- <h1> Hey there! I'm Kenai.</h1>
+ <h1>Hey there! I'm Kenai.</h1>
  </div>
 
 ### 👨‍💻 I am... 
@@ -29,15 +29,22 @@
 
 ### GitHub Analytics:
 
-<p align="center">
-<a href="https://github.com/kenaicarvalho">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenaicarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenaicarvalho&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+ <table>
+  <tr>
+    <a href="https://github.com/kenaicarvalho">
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenaicarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenaicarvalho&layout=compact&langs_count=8&theme=algolia"/>
+   </a>
+  </tr>
+ </table>
+</div>
+
 <hr>
 
 ### 🤝🏻 Connect With Me: 
 
-<a href="https://www.linkedin.com/in/kenai-carvalho-ab7431248/"><img src="https://img.shields.io/badge/-%20Kenai%20Carvalho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kenaicrv@gmail.com"><img src="https://img.shields.io/badge/kenaicrv@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<div align="center">
+ <a href="https://www.linkedin.com/in/kenai-carvalho-ab7431248/"><img src="https://img.shields.io/badge/-%20Kenai%20Carvalho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+ <a href="mailto:kenaicrv@gmail.com"><img src="https://img.shields.io/badge/kenaicrv@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</div>
