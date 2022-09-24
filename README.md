@@ -30,14 +30,12 @@
 ### GitHub Analytics:
 
 <div align="center">
- <table>
-  <tr>
-    <a href="https://github.com/kenaicarvalho">
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenaicarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenaicarvalho&layout=compact&langs_count=8&theme=algolia"/>
-   </a>
-  </tr>
- </table>
+ <div style="display: flex;">
+   <a href="https://github.com/kenaicarvalho">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenaicarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenaicarvalho&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+ </div>
 </div>
 
 <hr>
